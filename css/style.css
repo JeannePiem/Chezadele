@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css?family=Avenir:400,700|Charmonman:400,700");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: avenir;
+  font-size: 18px;
+  margin: 0px;
+  text-align: justify;
+}
+
+h1{
+  font-family: 'Charmonman', cursive;
+  font-weight: bolder;
+  font-size: 90px;
+  text-align: left;
+  color: #d77e5e;
+}
+
+h2 {
+	 font-family: 'Charmonman', cursive;
+  	font-weight: bolder;
+ 	font-size: 33px;}
+
+ h3 {
+	 font-family: 'Charmonman', cursive;
+  	font-weight: bold;
+ 	font-size: 70px;	
+ }
+
+a{
+  text-decoration: none;
+}
+
+p{font-size: 22px
+  font-weight : lighter;}
+
+h4 {font-style: italic;
+  font-size: 25px;
+color: #d77e5e}
+
+h5{
+  font-size:20px;
+  text-align: center;
+  background-color: #032960;
+  margin:auto;
+  color:white;
+  margin-top: none;
+}
